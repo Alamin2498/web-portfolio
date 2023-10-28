@@ -1,0 +1,76 @@
+h1{font-size: 50px;}
+.break{ color: goldenrod;
+font-size: 40px;}
+.but{ color: red;
+size: 40px;
+}
+h2{
+    font-size: 40px;
+
+}
+.ww{
+    color: goldenrod;
+}
+.para{
+    color: crimson;
+}
+.but:hover{
+    color: aquamarine;
+    font-size: 30px;
+}
+.half-width{ 
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+ 
+}
+
+    .half-width img{
+        width: 100%;
+        
+    }
+    .topbanner{
+        background-image: url("images/top-banner.png");
+        background-repeat: no-repeat;
+    }
+    section{
+        height: 500px;
+        padding-bottom: 5%;
+    }
+body{
+    margin:0px ;
+}
+.link-button{
+    text-decoration: none;
+    background-color: magenta ;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700px;
+    background-image: linear-gradient(green,tomato);
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+  
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 80%;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+}
+#full-stack{
+  border-left: 7px solid;
+  border-image: linear-gradient(lightSalmon tomato);
+  border-image-slice: ;
+}
+footer p{
+    text-align: center;
+    color: brown;
+   font-size: 25px;
+}
